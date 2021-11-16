@@ -5,7 +5,6 @@
 
 ## What's included?
 * Gutenberg blocks configuration tested in **WordPress v5.8+**
-* **The legacy boilerplate which is compatible with WordPress <5.8 can be found in the "v1" branch**
 * NPM configuration
 * ESNext
 * Support for a category where all custom blocks can be organized
